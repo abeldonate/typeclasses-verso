@@ -10,15 +10,6 @@ import Doc.Papers
 import Doc.WhyTypeClasses
 import Doc.DifferentScenarios
 import Doc.TableTypeclassResolution
-import Doc.Intro
-import Doc.LeanCode
-import Doc.SavedLeanCode
-import Doc.Notes
-import Doc.Citations
-import Doc.SectionReferences
-import Doc.ViewingOutput
-import Doc.UsingIndex
-import Doc.Index
 
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
