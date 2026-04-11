@@ -21,6 +21,7 @@ echo "Generating textbook HTML and code..."
 pushd textbook || { FAILED_COMMANDS+=("$PWD: pushd textbook"); exit 1; }
 set +e
 run_command lake update
+run_command lake clean
 run_command lake exe textbook
 set -e
 cd _out || { FAILED_COMMANDS+=("$PWD: cd _out"); popd; exit 1; }
@@ -32,8 +33,10 @@ popd || exit 1
 echo "Collecting generated HTML..."
 mkdir -p out || { FAILED_COMMANDS+=("$PWD: mkdir -p out"); }
 set +e
-run_command cp -r textbook/_out/html-multi out/textbook
-run_command cp textbook/_out/code.zip out/textbook/
+run_command rm -rf out/textbook
+run_command mkdir -p out/textbook
+run_command cp -r textbook/_out/html-multi/. out/textbook/
+run_command cp textbook/_out/code.zip out/textbook/code.zip
 set -e
 
 # Report results

@@ -4,7 +4,7 @@ This repository contains the source for the documentation of typeclasses in Lean
 
 To build and view the textbook, run:
 ```
-$ ./generate.sh
-$ python3 ./serve.py 8000
+$ make generate
+$ make serve
 ```
 The page is served at `localhost:8000`.
