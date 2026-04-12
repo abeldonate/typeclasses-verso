@@ -1,6 +1,6 @@
 import VersoManual
 import Doc.Meta.Lean
-import Mathlib
+import Mathlib.Algebra.Group.Basic
 
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
