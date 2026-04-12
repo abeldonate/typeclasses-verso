@@ -37,6 +37,9 @@ run_command rm -rf out/textbook
 run_command mkdir -p out/textbook
 run_command cp -r textbook/_out/html-multi/. out/textbook/
 run_command cp textbook/_out/code.zip out/textbook/code.zip
+if [ -d textbook/figures ]; then
+  run_command cp -r textbook/figures out/textbook/figures
+fi
 set -e
 
 # Report results
