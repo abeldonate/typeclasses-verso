@@ -24,7 +24,7 @@ the child can be used as an instance of the parent.
 In this running example, every `Group α` should also be usable as a `Monoid α`.
 
 ```lean
-namespace MyAlgebra
+namespace MyAlgebra2
 class Monoid (α : Type u) where
   mul : α → α → α
   one : α
@@ -33,7 +33,7 @@ class Monoid (α : Type u) where
 class Group (α : Type u) extends Monoid α where
   inv : α → α
   -- axioms omitted
-end MyAlgebra
+end MyAlgebra2
 ```
 
 In both Lean 3 and Lean 4, `extends` records the parent fields and also provides the
