@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="89.488029mm"
+   height="34.012135mm"
+   viewBox="0 0 89.48803 34.012135"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="CoeTransitive.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5533491"
+     inkscape:cx="76.930552"
+     inkscape:cy="120.06316"
+     inkscape:window-width="1426"
+     inkscape:window-height="862"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.75772,-16.206588)">
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-3"
+       width="29.542187"
+       height="6.6180406"
+       x="48.776592"
+       y="16.406588" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="49.825359"
+       y="20.446117"
+       id="text1162-6"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="49.825359"
+         y="20.446117"
+         id="tspan3593">MyCoeT \alpha \beta</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-3-6"
+       width="29.542187"
+       height="6.6180406"
+       x="26.957027"
+       y="29.903633" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="28.005795"
+       y="33.943165"
+       id="text1162-6-2"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="28.005795"
+         y="33.943165"
+         id="tspan3593-9">MyCoeT \alpha ?m1</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-3-1"
+       width="29.542187"
+       height="6.6180406"
+       x="70.503563"
+       y="29.336039" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="71.55233"
+       y="33.375568"
+       id="text1162-6-27"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="71.55233"
+         y="33.375568"
+         id="tspan3593-0">MyCoeT ?m1 \beta</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-3-6-6"
+       width="29.542187"
+       height="6.6180406"
+       x="10.95772"
+       y="43.400681" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="12.006487"
+       y="47.440208"
+       id="text1162-6-2-1"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="12.006487"
+         y="47.440208"
+         id="tspan3593-9-8">MyCoeT \alpha ?m2</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-3-1-7"
+       width="29.542187"
+       height="6.6180406"
+       x="42.888226"
+       y="43.400681" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="43.936993"
+       y="47.440208"
+       id="text1162-6-27-9"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="43.936993"
+         y="47.440208"
+         id="tspan3593-0-2">MyCoeT ?m2 ?m1</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none"
+       d="M 63.547685,23.024628 41.72812,29.903633"
+       id="path1293" />
+    <path
+       style="fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none"
+       d="M 41.72812,36.521675 25.728814,43.40068"
+       id="path1295" />
+    <path
+       style="fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none"
+       d="M 41.72812,36.521675 57.659319,43.40068"
+       id="path1297" />
+    <path
+       style="fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none"
+       d="m 63.547685,23.024628 21.726969,6.31141"
+       id="path1299" />
+  </g>
+</svg>

@@ -2,6 +2,7 @@ import VersoManual
 import Doc.Meta.Lean
 import Doc.TabledTypeclassResolution.DiamondProblem
 import Doc.TabledTypeclassResolution.CycleProblem
+import Doc.TabledTypeclassResolution.TabledResolution
 
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -62,3 +63,4 @@ for scaling typeclass-heavy developments, and why a tabled approach is needed.
 
 {include 1 Doc.TabledTypeclassResolution.DiamondProblem}
 {include 1 Doc.TabledTypeclassResolution.CycleProblem}
+{include 1 Doc.TabledTypeclassResolution.TabledResolution}

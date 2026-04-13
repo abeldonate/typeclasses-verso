@@ -21,31 +21,52 @@ The paper gives two canonical examples.
 *Example 1: coercion transitivity.*
 
 ```lean
-namespace MyCoe
-class CoeT (α β : Type) where
+class MyCoeT (α β : Type) where
   coe : α → β
 
 -- Natural transitivity rule.
-def coeTransRule {α β γ : Type} [ab : CoeT α β] [bg : CoeT β γ] :
-    CoeT α γ where
+def coeTransRule {α β γ : Type} [ab : MyCoeT α β] [bg : MyCoeT β γ] :
+    MyCoeT α γ where
   coe x := bg.coe (ab.coe x)
-end MyCoe
-
--- If search tries to build `CoeT α β` using `coeTrans`,
--- it introduces a fresh middle type and subgoals:
---   CoeT α ?m and CoeT ?m β
--- Repeating that step can recreate the same shape forever.
 ```
+
+Suppose the resolver is trying to build:
+
+`MyCoeT α β`
+
+and it repeatedly chooses the transitivity rule.
+The search unfolds like this:
+
+`MyCoeT α β`
+`→` choose `coeTransRule` with a fresh middle type `?m₁`
+`→` subgoals: `MyCoeT α ?m₁` and `MyCoeT ?m₁ β`
+`→` again choose `coeTransRule` for `MyCoeT α ?m₁`,
+`→` introducing `?m₂`
+`→` new subgoals include `MyCoeT α ?m₂` and `MyCoeT ?m₂ ?m₁`
+`→` again choose `coeTransRule` for `MyCoeT α ?m₂`,
+`→` introducing `?m₃`
+`→` new subgoals include `MyCoeT α ?m₃` and `MyCoeT ?m₃ ?m₂`
+`→` ...
+
+This is the loop the processor keeps repeating
+in naive depth-first search.
+
+![Trivial loop in coercion transitivity](../figures/CoeTransitive.svg)
 
 *Example 2: restricting module scalars.*
 
 ```lean
 -- Toy classes matching the shape from the paper.
 class ToyRing (A : Type) where
+  -- ...
 class ToyCommRing (R : Type) extends ToyRing R where
+  -- ...
 class ToyAddCommGroup (M : Type) where
+  -- ...
 class ToyModule (A M : Type) [ToyRing A] [ToyAddCommGroup M] where
+  -- ...
 class ToyAlgebra (R A : Type) [ToyCommRing R] [ToyRing A] where
+  -- ...
 
 -- Restrict scalars:
 -- if M is an A-module and A is a k-algebra,
