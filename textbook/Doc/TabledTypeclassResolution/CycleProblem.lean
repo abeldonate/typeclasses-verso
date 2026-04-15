@@ -6,6 +6,7 @@ open Verso.Genre.Manual.InlineLean
 open Doc
 
 set_option pp.rawOnError true
+set_option verso.code.warnLineLength 0
 
 #doc (Manual) "The Cycle Problem" =>
 

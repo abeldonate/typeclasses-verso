@@ -1,5 +1,8 @@
 import VersoManual
 import Doc.Meta.Lean
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Int.Defs
+import Mathlib.Data.Nat.Cast.Defs
 
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -12,6 +15,7 @@ open Verso.Genre.Manual.InlineLean
 open Doc
 
 set_option pp.rawOnError true
+set_option verso.code.warnLineLength 0
 
 
 
@@ -58,7 +62,36 @@ class Group2 (α : Type u) extends Monoid α where
   inv : α → α
   -- axioms omitted
 
-example : Group ℤ := by infer_instance
+example : AddGroup ℤ := by infer_instance
+
+-- How is this istance found? In the mathlib:
+instance instAddCommGroup : AddCommGroup ℤ where
+  add_comm := Int.add_comm
+  add_assoc := Int.add_assoc
+  add_zero := Int.add_zero
+  zero_add := Int.zero_add
+  neg_add_cancel := Int.add_left_neg
+  nsmul := (· * ·)
+  nsmul_zero := Int.zero_mul
+  nsmul_succ n x :=
+    show (n + 1 : ℤ) * x = n * x + x by rw [Int.add_mul, Int.one_mul]
+  zsmul := (· * ·)
+  zsmul_zero' := Int.zero_mul
+  zsmul_succ' m n := by
+    simp only [Int.natCast_succ, Int.add_mul, Int.add_comm, Int.one_mul]
+  zsmul_neg' m n := by simp only [Int.negSucc_eq, Int.natCast_succ, Int.neg_mul]
+  sub_eq_add_neg _ _ := Int.sub_eq_add_neg
+
+
+instance instAddCommMonoid    : AddCommMonoid ℤ    := by infer_instance
+instance instAddMonoid        : AddMonoid ℤ        := by infer_instance
+instance instMonoid           : Monoid ℤ           := by infer_instance
+instance instCommSemigroup    : CommSemigroup ℤ    := by infer_instance
+instance instSemigroup        : Semigroup ℤ        := by infer_instance
+instance instAddGroup         : AddGroup ℤ         := by infer_instance
+instance instAddCommSemigroup : AddCommSemigroup ℤ := by infer_instance
+instance instAddSemigroup     : AddSemigroup ℤ     := by infer_instance
+```
 
 
 # Injective (Prop) / Mono (Class)
