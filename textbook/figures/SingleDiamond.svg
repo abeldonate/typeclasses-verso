@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="73.396126mm"
+   height="39.296341mm"
+   viewBox="0 0 73.396126 39.296341"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.6819304"
-     inkscape:cx="396.86541"
-     inkscape:cy="238.11925"
-     inkscape:window-width="1906"
-     inkscape:window-height="1042"
+     inkscape:zoom="2.6981617"
+     inkscape:cx="153.62311"
+     inkscape:cy="105.44216"
+     inkscape:window-width="1426"
+     inkscape:window-height="862"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -38,34 +38,95 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-26.849622,-16.118541)">
     <rect
-       style="fill:#4d4d4d;fill-opacity:0.726336;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-       id="rect238"
-       width="15.374528"
-       height="5.1248426"
-       x="35.811836"
-       y="16.476307" />
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394"
+       width="29.542187"
+       height="6.6180406"
+       x="50.478977"
+       y="16.318541" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="59.16156"
+       y="20.681179"
+       id="text1162"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="59.16156"
+         y="20.681179"
+         id="tspan1890">Diamond</tspan></text>
     <rect
-       style="fill:#4d4d4d;fill-opacity:0.726336;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-       id="rect240"
-       width="19.004932"
-       height="4.7512331"
-       x="18.932423"
-       y="31.488287" />
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-8"
+       width="29.542187"
+       height="6.6180406"
+       x="27.049622"
+       y="33.276516" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="34.615368"
+       y="37.646179"
+       id="text1162-7"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="34.615368"
+         y="37.646179"
+         id="tspan7571">LeftBranch</tspan></text>
     <rect
-       style="fill:#4d4d4d;fill-opacity:0.726336;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-       id="rect242"
-       width="23.439089"
-       height="5.9021716"
-       x="58.756874"
-       y="30.337347" />
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-2"
+       width="29.542187"
+       height="6.6180406"
+       x="70.503563"
+       y="33.303883" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="77.112625"
+       y="37.34341"
+       id="text1162-0"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="77.112625"
+         y="37.34341"
+         id="tspan1890-2">RightBranch</tspan></text>
     <rect
-       style="fill:#4d4d4d;fill-opacity:0.726336;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-       id="rect244"
-       width="21.335691"
-       height="5.785419"
-       x="32.081882"
-       y="42.228336" />
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-3"
+       width="29.542187"
+       height="6.6180406"
+       x="50.478977"
+       y="48.59684" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="62.01897"
+       y="52.894855"
+       id="text1162-75"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="62.01897"
+         y="52.894855"
+         id="tspan1890-92">Base</tspan></text>
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round"
+       d="M 65.250069,22.936581 41.820715,33.276516"
+       id="path7575" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round"
+       d="M 65.250069,22.936581 85.274654,33.303882"
+       id="path7577" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round"
+       d="M 85.274654,39.921924 65.250069,48.596841"
+       id="path7579" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round"
+       d="m 41.820715,39.894558 23.429354,8.702283"
+       id="path7581" />
   </g>
 </svg>

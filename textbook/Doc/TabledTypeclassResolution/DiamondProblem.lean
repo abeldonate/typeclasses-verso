@@ -16,11 +16,11 @@ set_option verso.code.warnLineLength 0
 If we try to infer a lower class from a higher class in this tree, we have (exponentially) many paths to explore.
 Even if all paths lead to the same result, the resolver must backtrack and re-explore them when a query fails downstream.
 
-![Hierarchy tree of some algebraic structures](../figures/HierarchyAlgebra.png)
+![Hierarchy tree of some algebraic structures](../../figures/HierarchyAlgebra.png)
 
 *A simple diamond hierarchy.*
 
-![A simple diamond hierarchy](../figures/SingleDiamond.svg)
+![A simple diamond hierarchy](../../figures/SingleDiamond.svg)
 
 ```lean
 -- Base class
@@ -124,4 +124,4 @@ class Monoid (M : Type u) extends Semigroup M, MulOneClass M where
 end MyAlgebra
 ```
 
-![Hierarchy tree of some algebraic structures](../figures/AlgebraDiamond.svg)
+![Hierarchy tree of some algebraic structures](../../figures/AlgebraDiamond.svg)

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="95.416344mm"
+   height="47.032322mm"
+   viewBox="0 0 95.416344 47.032322"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="TopDiamond.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7816551"
+     inkscape:cx="149.01874"
+     inkscape:cy="132.74174"
+     inkscape:window-width="1426"
+     inkscape:window-height="862"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.292172,-16.118541)">
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394"
+       width="29.542187"
+       height="6.6180406"
+       x="17.492172"
+       y="16.318541" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="22.863588"
+       y="20.325758"
+       id="text1162"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="22.863588"
+         y="20.325758"
+         id="tspan1890">MetricSpace X</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-5"
+       width="29.542187"
+       height="6.6180406"
+       x="50.229252"
+       y="39.230461" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="52.539551"
+       y="43.237679"
+       id="text1162-6"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="52.539551"
+         y="43.237679"
+         id="tspan1890-2">MetricSpace (X x Y)</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-9"
+       width="29.542187"
+       height="6.6180406"
+       x="17.492172"
+       y="32.449123" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="19.666206"
+       y="36.488647"
+       id="text1162-1"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="19.666206"
+         y="36.488647"
+         id="tspan1890-27">TopologicalSpace X</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.438;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-9-2"
+       width="35.626415"
+       height="6.5800405"
+       x="47.187138"
+       y="56.351822" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="49.342171"
+       y="60.372353"
+       id="text1162-1-6"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="49.342171"
+         y="60.372353"
+         id="tspan1890-27-1">TopologicalSpace (X x Y)</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-36"
+       width="29.542187"
+       height="6.6180406"
+       x="82.966331"
+       y="16.318541" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="88.337746"
+       y="20.325758"
+       id="text1162-7"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="88.337746"
+         y="20.325758"
+         id="tspan1890-53">MetricSpace Y</tspan></text>
+    <rect
+       style="fill:#666ac2;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect394-9-6"
+       width="29.542187"
+       height="6.6180406"
+       x="82.966331"
+       y="32.449123" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.80965px;fill:#000000;fill-opacity:0.726336;stroke:#000000;stroke-width:0.199109;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="85.140366"
+       y="36.488647"
+       id="text1162-1-0"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:0.199109;stroke-dasharray:none"
+         x="85.140366"
+         y="36.488647"
+         id="tspan1890-27-6">TopologicalSpace Y</tspan></text>
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="m 32.263265,22.936581 v 9.512542"
+       id="path843" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="m 97.737421,22.936581 v 9.512542"
+       id="path845" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="M 32.263265,39.067165 65.000346,56.35182"
+       id="path1401" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="M 97.737421,39.067165 65.000346,56.35182"
+       id="path1403" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="M 47.03436,19.62756 65.000346,39.230461"
+       id="path1405" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="M 82.966332,19.62756 65.000346,39.230461"
+       id="path1407" />
+    <path
+       style="fill:#df8f87;fill-opacity:0.726336;stroke:#cccccc;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       d="M 65.000346,45.848502 V 56.35182"
+       id="path1409" />
+  </g>
+</svg>

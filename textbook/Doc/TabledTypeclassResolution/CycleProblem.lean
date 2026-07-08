@@ -52,7 +52,7 @@ The search unfolds like this:
 This is the loop the processor keeps repeating
 in naive depth-first search.
 
-![Trivial loop in coercion transitivity](../figures/CoeTransitive.svg)
+![Trivial loop in coercion transitivity](../../figures/CoeTransitive.svg)
 
 *Example 2: restricting module scalars.*
 

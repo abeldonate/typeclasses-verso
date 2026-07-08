@@ -64,7 +64,7 @@ class Group2 (α : Type u) extends Monoid α where
 
 example : AddGroup ℤ := by infer_instance
 
--- How is this istance found? In the mathlib:
+-- How is this instance found? In the mathlib:
 instance instAddCommGroup : AddCommGroup ℤ where
   add_comm := Int.add_comm
   add_assoc := Int.add_assoc

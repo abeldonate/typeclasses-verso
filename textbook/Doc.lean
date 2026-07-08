@@ -7,10 +7,19 @@ Author: David Thrane Christiansen
 import VersoManual
 import Doc.Papers
 
+import Doc.MathlibMission
 import Doc.WhyTypeClasses
 import Doc.DifferentScenarios
+import Doc.TypeclassUse
+import Doc.OptimisingSynthesis
+import Doc.Priorities
 import Doc.ForgetfulInheritance
+import Doc.Hazards
+import Doc.TypeSynonyms
 import Doc.TabledTypeclassResolution
+import Doc.SeminarConclusion
+import Doc.References
+import Doc.VersoFeatures
 
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -29,7 +38,16 @@ set_option pp.rawOnError true
 authors := ["Alex Brodbelt, Abel Donate"]
 %%%
 
+{include 1 Doc.MathlibMission}
 {include 1 Doc.WhyTypeClasses}
 {include 1 Doc.DifferentScenarios}
+{include 1 Doc.TypeclassUse}
+{include 1 Doc.OptimisingSynthesis}
+{include 1 Doc.Priorities}
 {include 1 Doc.ForgetfulInheritance}
+{include 1 Doc.Hazards}
+{include 1 Doc.TypeSynonyms}
 {include 1 Doc.TabledTypeclassResolution}
+{include 1 Doc.SeminarConclusion}
+{include 1 Doc.References}
+{include 1 Doc.VersoFeatures}
